@@ -1,0 +1,2 @@
+# NttDataTraining
+includes java projects
